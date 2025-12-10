@@ -93,75 +93,75 @@ Man kan välja på -70,-80,-90,-00,-10,-20 talen och varje årtionde har 2 låta
   ### ✅ Svar
 
   1.  
-     - a) ?  
-     - b) ?
-     - c) ?
+     - a) Lovefool
+     - b) The Cardigans
+     - c) 1996
   <br>
 
   2.  
-     - a) ?  
-     - b) ?
-     - c) ?
+     - a) Gimme! Gimme! Gimme!
+     - b) ABBA
+     - c) 1979
   <br>
 
   3.  
-     - a) ?  
-     - b) ?
-     - c) ?
+     - a) SE MIG
+     - b) Veronica Maggio
+     - c) 2023
   <br>
 
   4.  
-     - a) ?  
-     - b) ?
-     - c) ?
+     - a) Stad i ljus
+     - b) Tommy Körberg
+     - c) 1988
   <br>
 
   5.  
-     - a) ?  
-     - b) ?
-     - c) ?
+     - a) Cotton Eye Joe
+     - b) Rednex
+     - c) 1994
   <br>
 
   6.  
-     - a) ?  
-     - b) ?
-     - c) ?
+     - a) Wake Me Up
+     - b) Avicii
+     - c) 2013
   <br>
 
   7.  
-     - a) ?  
-     - b) ?
-     - c) ? 
+     - a) Living in America
+     - b) The Sounds
+     - c) 2002
   <br>
 
   8.  
-     - a) ?  
-     - b) ?
-     - c) ? 
+     - a) Lose my mind
+     - b) Myra Granberg
+     - c) 2021
   <br>
 
   9.  
-     - a) ?  
-     - b) ?
-     - c) ?
+     - a) Hooked On A Feeling
+     - b) Blue Swede
+     - c) 1974
   <br>
 
   10.  
-      - a) ?  
-      - b) ?
-      - c) ?
+      - a) Kär och Galen
+      - b) Ulf Lundell
+      - c) 1982
   <br>
 
   11.  
-      - a) ?  
-      - b) ?
-      - c) ? 
+      - a) Jag är en vampyr
+      - b) Markus Krunegård
+      - c) 2008
   <br>
 
   12.  
-      - a) ?  
-      - b) ?
-      - c) ? 
+      - a) Sunnanvind
+      - b) Mares
+      - c) 2019
   <br>
 
 
