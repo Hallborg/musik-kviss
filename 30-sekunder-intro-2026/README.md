@@ -5,7 +5,7 @@ Kvisset är enkelt. sätt namn och artist/band på låtarna och plasera dem i r�
 ---
 
 ### 🎵 Spotifylänk  
-[Öppna spellistan](https://open.spotify.com/playlist/6laSJBCPDtOnZHBOLo9X4Y?si=c901c5da8dc44057)
+[Öppna spellistan](https://open.spotify.com/playlist/2siXNhkq2PnZMcog93YGgF?si=fff66d747a774379)
 
 ---
 
@@ -14,73 +14,76 @@ Kvisset är enkelt. sätt namn och artist/band på låtarna och plasera dem i r�
 1.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 2.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 3.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 4.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 5.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 6.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 7.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 8.  
    - a) Låt
    - b) Artist
-   - c) Årtionde
 <br>
 
 9.  
    - a) Låt
    - b) Artist
-   - c) Årtionde 
 <br>
 
 10.  
     - a) Låt
     - b) Artist
-    - c) Årtionde 
 <br>
 
 11.  
     - a) Låt
     - b) Artist
-    - c) Årtionde 
 <br>
 
 12.  
     - a) Låt
     - b) Artist
-    - c) Årtionde
+<br>
+
+13.  
+    - a) Låt
+    - b) Artist
+<br>
+
+14.  
+    - a) Låt
+    - b) Artist
+<br>
+
+15.  
+    - a) Låt
+    - b) Artist
 <br>
 
 ---
@@ -91,77 +94,78 @@ Kvisset är enkelt. sätt namn och artist/band på låtarna och plasera dem i r�
   ### ✅ Svar
 
   1.  
-     - a) Africa
-     - b) Toto
-     - c) 1982
+     - a) You Can Call Me Al
+     - b) Paul Simon
   <br>
 
   2.  
-   - a) Zombie
+   - a) Livin' On A Prayer
    - b) The Cranbarries
-   - c) 1994
   <br>
 
   3.  
-     - a) All star
-     - b) Smash Mouth
-     - c) 1999
+     - a) Jump
+     - b) Van Halen
   <br>
 
   4.  
-     - a) Human
-     - b) The Killers
-     - c) 2008
+     - a) I Was Made For Lovin' You
+     - b) Taylor Swift
   <br>
 
   5.  
-     - a) Royals
-     - b) Lorde
-     - c) 2013
+     - a) Paranoid
+     - b) Black Sabbath
   <br>
 
   6.  
-     - a) Banan, Melon, Kiwi & Citron
-     - b) Hooja
-     - c) 2022
+     - a) Gimme All Your Lovin'
+     - b) ZZ Top
   <br>
 
   7.  
-     - a) September
-     - b) Earth, Wind & Fire
-     - c) 1978
+     - a) The Joker
+     - b) Steve Miller Band
   <br>
 
   8.  
-     - a) Sweet Home Alabama
-     - b) Lynyrd SKynyrd
-     - c) 1974
+     - a) The Safety Dance
+     - b) Men Without Hats
   <br>
 
   9.  
-     - a) Hold Me Closer
-     - b) Elton John, Britney SPears
-     - c) 2021
+     - a) Crazy
+     - b) Gnarls Barkley
   <br>
 
   10.  
-      - a) Viva la Vida
-      - b) Coldplay
-      - c) 2008
+      - a) Losing My Religion
+      - b) R.E.M
   <br>
 
   11.  
-      - a) Shake it Off
-      - b) Taylor Swift
-      - c) 2014
+      - a) Larger Than Life
+      - b) Backstreet Boys
   <br>
 
   12.  
-      - a) Never Gonna Give you Up
-      - b) Rick Astley
-      - c) 1987
+      - a) Lose Yourself
+      - b) Eminem
   <br>
 
+  13.  
+      - a) What's Up
+      - b) 4 Non Blondes
+  <br>
 
+  14.  
+      - a) Levels
+      - b) Avicii
+  <br>
+
+  15.  
+      - a) Raise Your Glass
+      - b) Pink
+  <br>
 
 </details>
